@@ -1,0 +1,8 @@
+The syllabus is prepared with the view of preparing the Engineering Graduates capable of writing
+readable C programs to solve computational problems that they may have to solve in their professional life.
+The course content is decided to cover the essential programming fundamentals which can be taught
+within the given slots in the curriculum. This course has got 2 Hours per week for practicing programming in
+C. A list showing 24 mandatory programming problems are given at the end. The instructor is supposed to
+give homework/assignments to write the listed programs in the rough record as and when the required
+theory part is covered in the class. The students are expected to come prepared with the required program
+written in the rough record for the lab classes.
