@@ -7,3 +7,4 @@ In this repository, you can find :
 2. C programs using conditional statements 
 3. C programs using arrays 
 4. C programs using pointers
+5. DSA with C
